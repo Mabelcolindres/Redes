@@ -5,4 +5,14 @@ Las redes sociales son plataformas digitales formadas por comunidades de individ
 [Redes][https://github.com/Mabelcolindres/Redes]
 ## _Imagen QR_
 ![Alt text](qr-proyecto.jpg "REDES")
-| Plugin | README |
+## _Tabla_
+| Sección1 | Sección2 |
+| ------ | ------ |
+| A | B |
+| C | D |
+| E | F |
+## _comando bash_
+```bash
+ls -lah
+cd directorio
+```
