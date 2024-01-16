@@ -11,7 +11,7 @@ Las redes sociales son plataformas digitales formadas por comunidades de individ
 | A | B |
 | C | D |
 | E | F |
-## _comando bash_
+## _Comando bash_
 ```bash
 ls -lah
 cd directorio
